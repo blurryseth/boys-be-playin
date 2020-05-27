@@ -62,3 +62,9 @@ return
 :*:flashlight::{}}
 
 :*:chat::{'}
+
+:*:reload::{\}
+
+:*:command::{/}
+
+:*:drop::{,}
